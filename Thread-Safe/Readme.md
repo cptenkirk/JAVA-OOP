@@ -1,4 +1,4 @@
-# Programmieraufgabe: Threadsichere Schnittstellenimplementierung
+# Threadsichere Schnittstellenimplementierung
 
 
 
